@@ -1,27 +1,24 @@
 <div class='row text-center'>
-	<h1><%= config.author %></h1>
-    <p><%= config.subtitle %></p>
-
+  <h1> Las mejores películas del momento </h1>
 </div>
 <div class='row'>
-	<ul>
-	<% page.posts.each(function(post){ %>
-    	<li>
-    		<h3>
-                <a href="<%- url_for(post.path) %>">
-        			<%= post.title %>
-        		</a>
-            </h3>
-            <div class='text-muted'>
-                <%= date(post.date, config.date_format) %> 
-            </div>
-            
-            <% if(post.excerpt) { %>
-                <p>
-                    <%- post.excerpt %>
-                </p>
-            <% } %>
-    	</li>
-  	<% }) %>
-	</ul>
+  <ul>
+    <% page.posts.each(function(post){ %>
+
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h3 class="panel-title">
+            <a href="<%- url_for(post.path) %>">
+                <%= post.title %> - 
+            </a>
+            <%= date(post.date, 'YYYY/M/D') %>
+          </h3>
+        </div>
+        <div class="panel-body">
+          <%= post.content %>
+        </div>
+      </div>
+
+    <% }) %>
+  </ul>
 </div>
