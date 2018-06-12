@@ -4,8 +4,16 @@ date: 2018-06-11 18:37:50
 tags: 
 ---
 
-Después de haber adquirido la gema del poder del planeta Xandar, el títan Thanos y sus lugartenientes, Ebony Maw, Cull Obsidian, Próxima Midnight y Corvus Glaive, interceptan la nave espacial que transportaba a los supervivientes de la destrucción de Asgard. A medida que extraen la gema del espacio del Teseracto, Thanos somete a Thor, domina a Hulk y mata a Loki. Mientras que Heimdall usa lo que le queda de energia oscura para envíar a Hulk devuelta la Tierra usando el Bifröst antes de ser asesinado por Thanos. Completado su comentido en la nave, Thanos se va con sus lugartenientes y destruye la nave espacial.4​
+{% asset_img avengers.jpg Avengers %}
 
-Mientras tanto Hulk aterriza forzosamente en el Sanctum Sanctorum de la ciudad de Nueva York, volviéndose Bruce Banner y les advierte a Doctor Strange y Wong que Thanos se dirige hacia la tierra y su plan de asesinar a la mitad de la vida en el universo; en respuesta, Strange recluta a Tony Stark. Maw y Obsidian llegan para obtener la gema del tiempo de Strange, llamando la atención de Peter Parker. Maw captura a Strange, pero no logra tomar la gema del tiempo debido a un encantamiento. Stark y Parker persiguen a la nave espacial de Maw, Banner contacta a Steve Rogers y Wong se queda para proteger el Sanctum.
+El universo cinematográfico de Marvel celebra diez años de historias con su película más ambiciosa, 'Avengers: Infinity War', que reúne a sus superhéroes más populares y que se estrena este jueves en las salas de Cine de Colombia. 
+
+Con un elenco lleno de estrellas, la entrega 19 de la franquicia de superhéroes reúne a Iron Man, Capitán América, Hulk, Thor, Black Panther, los Guardianes de la Galaxia, Doctor Strange, Spiderman y otros populares personajes, para luchar contra el villano Thanos, al que prestó su voz el actor Josh Brolin. 
 
 {% youtube QbNdocPMT9Y %}
+
+Hay comentarios muy elogiosos, como el de la revista británica 'Empire', que le dio cinco estrellas sobre cinco, asegurando que Marvel ha resuelto los problemas del tercer acto y del villano, además de otros. "No importa lo preparado que se sientan, no están listos para Thanos. Y tampoco lo están nuestros héroes", agrega, resaltando el papel del personaje antagónico.  
+
+'USA Today' comparte el entusiasmo de 'Empire', asegurando que, aunque es muy difícil superar el impacto de la película original de 'Avengers' (que se estrenó en el 2012), 'Infinity War' hace lo mejor para cambiar el juego de nuevo. "Hay regresos inesperados, verdaderas sorpresas, sacrificios reales y final que va a enloquecer a los fanáticos, y aun así simplemente es maravillosa", asegura la reseña. 
+
+En España, el portal Cinemanía comenta que las espectaculares batallas galácticas brillan tanto como sus combatientes espaciales y agrega que la película es, ante todo, un homenaje colosal al universo cinematográfico de Marvel y a sus héros. "Ver interactuar a estos superhéroes, conducidos por los Russo, es lo mejor que te puede pasar en una película de capas y mallas", finaliza la reseña. 
